@@ -1,24 +1,19 @@
-# pipeline
+## Getting Started
 
-## Project setup
+- Have [Node](https://nodejs.org/en/download/) installed.
+- Run the following command from where is planning to have the project installed:
+
+```
+git clone git@github.com:votoznotna/pipeline.git
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+npm start
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Navigate http://localhost:8080/ (or first available port after 8080) in browser and enjoy the run.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Take-home Prompt Demo](demo/fracta.gif)
