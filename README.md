@@ -4,7 +4,14 @@
 - Run the following command from where is planning to have the project installed:
 
 ```
-git clone git@github.com:votoznotna/pipeline.git
+git clone git@github.com:votoznotna/fracta-home.git
+```
+
+```
+go fracta-home directory
+```
+
+- From the same folder run
 
 ```
 npm install
